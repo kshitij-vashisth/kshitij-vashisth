@@ -1,7 +1,4 @@
-# Hello World! 👋, I'm Kshitij
-I'm a 💻🔥 passionate full-stack developer with a 🧠🩺 neuroscience, physiotherapy, and 📊📡 data science background! 🚀✨
-
-# 💫 About Me:
+# Hello World! 👋, I'm Kshitij a 💻🔥 passionate full-stack developer
 🔭 I’m currently exploring full-stack development, machine learning, and game development.<br><br>👯  I’m looking to collaborate on open-source projects, AI applications, and impactful full-stack web apps.<br><br>🤝 I’m looking for help with advanced cloud deployment, Kubernetes, and optimizing large-scale React applications.<br><br>💬 Ask me about web development, backend development, or AI/ML applications in real-world projects!<br><br>⚡ Fun fact:<br>• I am building a prequel for a game that could be my dream project! Shhhh! No spoilers! 🤫
 
 
