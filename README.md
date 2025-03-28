@@ -13,7 +13,7 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/KayVeeZ/KayVeeZ/output/github-snake.svg" />
 </picture>
 
-### ✍️ Random Dev Quote
+### ✍️ 1-minute Enlightenment
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
