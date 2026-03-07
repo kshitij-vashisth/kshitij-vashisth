@@ -1,5 +1,5 @@
 ![GitHub Banner](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)
-# Hello World! 👋, I'm Ksshitij Vasshisth, a passionate 🔥 full-stack dev 💻
+# Hello World! 👋, I'm Kshitij Vashisth, a passionate 🔥 full-stack dev 💻
 🔭 I’m currently exploring full-stack development, machine learning, and game development.<br><br>👯  I’m looking to collaborate on open-source projects, AI applications, and impactful full-stack web apps.<br><br>🤝 I’m looking for help with advanced cloud deployment, Kubernetes, and optimizing large-scale React applications.<br><br>💬 Ask me about web development, backend development, or AI/ML applications in real-world projects!<br><br>⚡ Fun fact: I am building a prequel for a game that could be my dream project! Shhhh! No spoilers! 🤫
 
 # 💻 Tech Stack
